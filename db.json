@@ -1,0 +1,34 @@
+{
+  "members": [
+    {
+      "id": 0,
+      "name": "Napassanan Thambuacha",
+      "nickname": "Angel",
+      "birthday": "2002-04-06",
+      "height": "152",
+      "blood": "B",
+      "province": "Nakhon Pathom",
+      "image_url": "https://i.bnk48cdn.net/others/cgm48-3rd-single-profile-square/Angel.png"
+    },
+    {
+      "id": 1,
+      "name": "Punyawee Jungcharoen",
+      "nickname": "Aom",
+      "birthday": "1995-09-20",
+      "height": "157",
+      "blood": "B",
+      "province": "Chiang Mai",
+      "image_url": "https://i.bnk48cdn.net/others/cgm48-3rd-single-profile-square/Aom.png"
+    },
+    {
+      "id": 2,
+      "name": "Kodchaporn Leelatheep",
+      "nickname": "Champoo",
+      "birthday": "2005-10-10",
+      "height": "155",
+      "blood": "B",
+      "province": "Lampang",
+      "image_url": "https://i.bnk48cdn.net/others/cgm48-3rd-single-profile-square/Champoo.png"
+    }
+  ]
+}
